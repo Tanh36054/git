@@ -1,3 +1,4 @@
 -branch
 -git checkout {branch name}
 -git merge {branch name}
+-conflict
